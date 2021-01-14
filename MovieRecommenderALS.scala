@@ -113,6 +113,7 @@ object MovieRecommenderALS {
     ratings.join(movies, Seq("movieId")).filter($"userId" === 100).sort( col("rating").desc ).limit(10).show()
 
     println("Done ...")
+    spark.stop()
 
   }
 }
