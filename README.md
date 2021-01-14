@@ -4,7 +4,7 @@ Movie Recommendation Engine with ALS and implemented with Scala and Spark
 
 # Expected Output
 <br>
-<img src="o:p.png" alt="Logo" width="400" height="400">
+<img src="https://github.com/davidnallapu/MovieRecommenderScalaALS/blob/main/o:p.png" alt="Logo" width="400" height="400">
 <br>
 
 +-------+------+---------+--------------------+--------------------+<br>
